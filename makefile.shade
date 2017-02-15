@@ -25,3 +25,5 @@ k-standard-goals
       Dotnet(string.Format("publish --configuration Release --output {0} --framework {1} {2}", output, tfm, projectFile));
     }
   }
+
+#xunit-test
